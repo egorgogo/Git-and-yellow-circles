@@ -1,1 +1,2 @@
 print('Еееее')
+print('Ooooo')
