@@ -1,2 +1,0 @@
-print('Еееее')
-print('Ooooo')
